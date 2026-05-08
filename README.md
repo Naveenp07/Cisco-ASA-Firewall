@@ -107,7 +107,7 @@ no shutdown
 ## Inside Interface
 
 ```bash
-interface vlan 10
+interface vlan 1
 nameif inside
 security-level 100
 ip address 10.0.0.1 255.255.255.0
@@ -267,6 +267,6 @@ Possible future enhancements:
 
 # Author
 
-Created by admin
+Created by Naveen Patil
 
 Cisco Packet Tracer Enterprise Firewall Lab Project
