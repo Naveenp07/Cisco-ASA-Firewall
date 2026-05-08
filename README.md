@@ -75,8 +75,8 @@ The lab includes:
 | PC0 | FastEthernet0 | 10.0.0.5 |
 | PC1 | FastEthernet0 | 10.0.0.6 |
 | Server0 | FastEthernet0 | 10.0.0.12 |
-| Laptop | Wireless0 | 10.0.0.13 |
-| Wireless Router | LAN IP | 10.0.0.20 |
+| Laptop | Wireless0 | 10.0.0.8 |
+| Wireless Router | LAN IP | 10.0.0.2 |
 
 Subnet Mask:
 
